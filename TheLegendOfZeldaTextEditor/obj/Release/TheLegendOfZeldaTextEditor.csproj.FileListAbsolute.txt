@@ -1,0 +1,16 @@
+f:\users\sleepy\documents\visual studio 2013\Projects\TheLegendOfZeldaTextEditor\TheLegendOfZeldaTextEditor\bin\Release\TheLegendOfZeldaTextEditor.exe.config
+f:\users\sleepy\documents\visual studio 2013\Projects\TheLegendOfZeldaTextEditor\TheLegendOfZeldaTextEditor\bin\Release\TheLegendOfZeldaTextEditor.exe
+f:\users\sleepy\documents\visual studio 2013\Projects\TheLegendOfZeldaTextEditor\TheLegendOfZeldaTextEditor\bin\Release\TheLegendOfZeldaTextEditor.pdb
+f:\users\sleepy\documents\visual studio 2013\Projects\TheLegendOfZeldaTextEditor\TheLegendOfZeldaTextEditor\obj\Release\TheLegendOfZeldaTextEditor.AboutBox1.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\TheLegendOfZeldaTextEditor\TheLegendOfZeldaTextEditor\obj\Release\TheLegendOfZeldaTextEditor.Form1.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\TheLegendOfZeldaTextEditor\TheLegendOfZeldaTextEditor\obj\Release\TheLegendOfZeldaTextEditor.FormEndingAndCredits.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\TheLegendOfZeldaTextEditor\TheLegendOfZeldaTextEditor\obj\Release\TheLegendOfZeldaTextEditor.FormGameOver.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\TheLegendOfZeldaTextEditor\TheLegendOfZeldaTextEditor\obj\Release\TheLegendOfZeldaTextEditor.FormGameText.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\TheLegendOfZeldaTextEditor\TheLegendOfZeldaTextEditor\obj\Release\TheLegendOfZeldaTextEditor.FormHUD.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\TheLegendOfZeldaTextEditor\TheLegendOfZeldaTextEditor\obj\Release\TheLegendOfZeldaTextEditor.FormRegistration.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\TheLegendOfZeldaTextEditor\TheLegendOfZeldaTextEditor\obj\Release\TheLegendOfZeldaTextEditor.FormTitle.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\TheLegendOfZeldaTextEditor\TheLegendOfZeldaTextEditor\obj\Release\TheLegendOfZeldaTextEditor.FormTreasures.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\TheLegendOfZeldaTextEditor\TheLegendOfZeldaTextEditor\obj\Release\TheLegendOfZeldaTextEditor.Properties.Resources.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\TheLegendOfZeldaTextEditor\TheLegendOfZeldaTextEditor\obj\Release\TheLegendOfZeldaTextEditor.csproj.GenerateResource.Cache
+f:\users\sleepy\documents\visual studio 2013\Projects\TheLegendOfZeldaTextEditor\TheLegendOfZeldaTextEditor\obj\Release\TheLegendOfZeldaTextEditor.exe
+f:\users\sleepy\documents\visual studio 2013\Projects\TheLegendOfZeldaTextEditor\TheLegendOfZeldaTextEditor\obj\Release\TheLegendOfZeldaTextEditor.pdb
